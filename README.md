@@ -1,2 +1,2 @@
 # AlsoCalledChris
-My Website wwww.chriswellings.me.uk
+All static files for www.chriswellings.me.uk
